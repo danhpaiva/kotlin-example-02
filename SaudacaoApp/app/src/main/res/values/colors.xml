@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="verde">#025E73</color>
+    <color name="verde_escuro">#011F26</color>
+    <color name="beje_um">#A5A692</color>
+    <color name="beje_dois">#BFB78F</color>
+    <color name="laranja">#F2A71B</color>
+</resources>
